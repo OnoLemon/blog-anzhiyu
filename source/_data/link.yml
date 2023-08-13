@@ -108,6 +108,11 @@
       avatar: https://raxcl.cn/img/avatar.jpg
       descr: 剑未佩妥，出门已是江湖。
       siteshot: https://image.thum.io/get/width/400/crop/800/allowJPG/wait/20/noanimate/https://raxcl.cn
+    - name: 听风野语
+      link: https://onolemon.top/
+      avatar: https://cdn.onolemon.top/avatar.jpg
+      descr: 落叶归根，听风野语
+      siteshot: https://cdn.onolemon.top/onolemon.top.png
 
 - class_name: Friends
   class_desc: "Many hands make light work."
